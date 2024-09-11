@@ -1,6 +1,4 @@
-Here's a complete README file to guide users on how to set up and run your Hand Gesture Control System project, including virtual environment creation:
 
-```markdown
 # Hand Gesture Control System
 
 This project allows users to control their computer's volume, brightness, and mouse functions using hand gestures. It leverages computer vision techniques to detect hand movements and translates them into corresponding actions on the computer.
@@ -85,8 +83,3 @@ Before running the program, you need to install the required libraries. You can 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-### Notes:
-- Replace `<repository_url>` with the actual URL of your repository.
-- Adjust Python version in the conda command based on your preference or requirements.
-- Make sure to include a `LICENSE` file if applicable, or modify the license section according to your project's licensing terms.
